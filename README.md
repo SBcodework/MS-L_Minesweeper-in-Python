@@ -1,4 +1,4 @@
-# MS-L-Minesweeper-GUI-Python-
+# MS-L_Minesweeper-in-Python
 A legacy minesweeper project completed near December 2018. Working game with a GUI, configurable size, and a hint system. 
 
 # Instructions
